@@ -1,0 +1,580 @@
+[
+  {
+    "question": "What is Global Holdings Ltd., and what industries does it have exposure to?",
+    "answer": "Global Holdings Ltd. is a holding company based in New York, NY, USA with significant exposure to properties, logistics, hospitality, food, and agribusiness industries.",
+    "ground_truth": "Global Holdings Ltd. is a holding company based in New York, NY, USA, with significant exposure to properties, logistics, hospitality, food, agribusiness, and maritime industries.",
+    "chunk_content": "**Introduction**\n\nThis financing agreement (the \"Agreement\") is entered into on this 5th day of August, 2024,\nby and between First National Bank, a financial institution incorporated under the laws of\nthe United States (the \"Lender\"), and Global Holdings Ltd., a holding company with its\nregistered office at 123 Business Park Drive, New York, NY, USA (the \"Borrower\"). This\nAgreement outlines the terms and conditions under which the Lender agrees to provide\nfinancing to the Borrower, a diversified holding company with significant exposure to\nproperties, logistics, hospitality, food, agribusiness, and maritime industries.\n\n**1. Parties Involved**\n\n**Lender**\n\nFirst National Bank, a reputable financial institution incorporated under the laws of the\nUnited States, with its principal office located at 789 Drive, Metaverse.\n\n**Borrower**",
+    "chunk_id": "chunk_0",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "How will the funds provided by First National Bank be utilized by Global Holdings Ltd?",
+    "answer": "The funds provided by First National Bank under this Agreement will support the operational and capital expenditure requirements of Global Holdings Ltd across its various business sectors, including properties, logistics, hospitality, food, agribusiness, and maritime industries in accordance with their business plan and financial projections, which have been reviewed and approved by the Lender.",
+    "ground_truth": "The funds provided by First National Bank will be used to support Global Holdings Ltd.'s operational and capital expenditure requirements across its various business sectors (properties, logistics, hospitality, food, agribusiness, and maritime industries) in accordance with the company's business plan and financial projections approved by the lender.",
+    "chunk_content": "**Lender**\n\nFirst National Bank, a reputable financial institution incorporated under the laws of the\nUnited States, with its principal office located at 789 Drive, Metaverse.\n\n**Borrower**\n\nGlobal Holdings Ltd., a holding company duly incorporated and existing under the laws of\nthe United States, with its registered office at 123 Business Park Drive, New York, NY, USA.\n\n**2. Purpose of Financing**\n\nThe purpose of the financing provided under this Agreement is to support the operational\nand capital expenditure requirements of the Borrower across its various business sectors,\nincluding but not limited to properties, logistics, hospitality, food, agribusiness, and\nmaritime industries. The funds shall be utilized in accordance with the Borrower's business\nplan and financial projections, which have been reviewed and approved by the Lender.\n\n**3. Loan Amount and Disbursement**\n\n**Total Loan Amount**",
+    "chunk_id": "chunk_1",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the interest rate for the loan facility provided by the Lender to the Borrower in the amount of $100,000,000?",
+    "answer": "The interest rate for the $100,000,000 loan facility is 4.5% per annum. This rate is calculated on a floating basis tied to the London Interbank Offered Rate (LIBOR) and is subject to adjustment in accordance with LIBOR fluctuations.",
+    "ground_truth": "The interest rate for the $100,000,000 loan facility is 4.5% per annum, calculated on a floating basis tied to LIBOR and subject to adjustment based on LIBOR fluctuations. Any adjustments to the rate must be communicated to the Borrower at least 30 days in advance, with the option for the Borrower to accept the new rate or prepay the loan without penalty.",
+    "chunk_content": "**3. Loan Amount and Disbursement**\n\n**Total Loan Amount**\n\nThe Lender agrees to provide the Borrower with a loan facility in the aggregate principal\namount of One Hundred Million United States Dollars ($100,000,000) (the \"Loan Amount\").\n\n**Disbursement Schedule**\n\nThe Loan Amount shall be disbursed in four tranches of Twenty-Five Million United States\nDollars ($25,000,000) each. Each tranche shall be disbursed upon the Borrower's fulfillment\nof certain conditions precedent[1], including but not limited to the achievement of specific\n\n1 Disbursement schedule shown is projected on the assumption that the Borrower achieves key milestones\nand financial targets\n\n\n-----\n\nproject milestones and the attainment of financial performance metrics as detailed in\nSchedule A of this Agreement.\n\n**4. Interest Rate and Repayment Terms**\n\n**Interest Rate**",
+    "chunk_id": "chunk_2",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the interest rate and repayment terms of the Loan Amount mentioned in this text material?",
+    "answer": "The Loan Amount bears interest at a rate of 4.5% per annum, calculated on a floating basis tied to LIBOR and subject to adjustment. The Borrower shall repay the Loan Amount over a period of ten (10) years from the date of the first disbursement. Any interest rate changes must be communicated at least 30 days in advance, with the option to accept or prepay without penalty. Repayments are made in equal quarterly installments, starting 6 months after initial disbursement.",
+    "ground_truth": "The Loan Amount bears an interest rate of 4.5% per annum, calculated on a floating basis tied to LIBOR and subject to adjustment based on LIBOR fluctuations. Any interest rate changes must be communicated to the Borrower in writing at least 30 days before taking effect, with the option for the Borrower to accept the new rate or prepay the loan without penalty. The repayment period is 10 years from the date of the first disbursement, with repayments made in equal quarterly installments. The first installment is due 6 months after the initial disbursement, and a detailed repayment schedule is provided in Schedule B of the Agreement.",
+    "chunk_content": "-----\n\nproject milestones and the attainment of financial performance metrics as detailed in\nSchedule A of this Agreement.\n\n**4. Interest Rate and Repayment Terms**\n\n**Interest Rate**\n\nThe Loan Amount shall bear interest at a rate of four and one-half percent (4.5%) per annum,\ncalculated on a floating basis tied to the London Interbank Offered Rate (LIBOR). The interest\nrate shall be subject to adjustment in accordance with fluctuations in the LIBOR[2] rate.\n\n**Adjustment of Interest Rate**\n\nAny adjustment to the interest rate shall be communicated to the Borrower in writing at least\nthirty (30) days prior to the effective date of such adjustment. The notice shall specify the\nnew interest rate and the basis for its calculation. The Borrower shall have the option to\naccept the new rate or prepay the outstanding loan amount without penalty before the new\nrate becomes effective.\n\n**Repayment Period**",
+    "chunk_id": "chunk_3",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "How long is the repayment period for the loan, and when is the first installment due?",
+    "answer": "The repayment period for the loan is ten (10) years from the date of the first disbursement. The first installment is due six (6) months after the initial disbursement.",
+    "ground_truth": "The repayment period for the loan is ten (10) years, starting from the date of the first disbursement. Repayments are to be made in equal quarterly installments, with the first installment due six (6) months after the initial disbursement. A detailed repayment schedule is provided in Schedule B of the Agreement.",
+    "chunk_content": "**Repayment Period**\n\nThe Borrower shall repay the Loan Amount over a period of ten (10) years from the date of the\nfirst disbursement (the \"Repayment Period\").\n\n**Repayment Schedule**\n\nRepayment of the Loan Amount shall be made in equal quarterly installments, with the first\ninstallment due six (6) months after the initial disbursement. The detailed repayment\nschedule is set forth in Schedule B of this Agreement.\n\n**5. Security and Collateral**\n\nAs security for the due and punctual repayment of the Loan Amount and the performance of\nall other obligations under this Agreement, the Borrower hereby grants to the Lender a first\npriority security interest in and to the following collateral:\n\n-  Commercial properties located in New York and Los Angeles;\n\n-  Receivables from the Borrower's hospitality and agribusiness operations.\n\n-  Total of 250,000 Generic Corp (GC) common shares. The lender understands that\nthese shares are restricted under Rule 144 of the Securities Act of 1933.",
+    "chunk_id": "chunk_4",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is required of the Borrower in terms of valuing and revaluating collateral, and who bears the associated costs?",
+    "answer": "The Borrower is obligated to provide an initial valuation of the collateral from a reputable independent appraiser at the time of the first disbursement, and subsequent annual revaluations or more frequently upon request by the Lender. All expenses related to these valuations and revaluations are the responsibility of the Borrower.",
+    "ground_truth": "The Borrower is required to provide an initial valuation of the collateral from a reputable independent appraiser, acceptable to the Lender, at the time of the first disbursement. Following this, the Borrower must provide revaluations of the collateral annually, or more frequently if requested by the Lender, to ensure the collateral continues to meet the security requirements of the Agreement. All costs associated with these valuations and revaluations are to be borne by the Borrower. This practice aligns with ISO8888 standard for risk management and asset verification. The collateral includes commercial properties in New York and Los Angeles, receivables from the Borrower's hospitality and agribusiness operations, and 250,000 Generic Corp (GC) common shares, which are restricted under Rule 144 of the Securities Act of 1933. Specific details of the collateral are described in Schedule C of the Agreement.",
+    "chunk_content": "-  Total of 250,000 Generic Corp (GC) common shares. The lender understands that\nthese shares are restricted under Rule 144 of the Securities Act of 1933.\n\nThe specific details of the collateral are described in Schedule C of this Agreement.\n\n2 The interest rate is based on the 3-month USD LIBOR rate\n\n\n-----\n\n**Valuation and Revaluation of Collateral**\n\nThe Borrower agrees to provide the Lender with an initial valuation of the collateral from a\nreputable independent appraiser, acceptable to the Lender, at the time of the first\ndisbursement. Thereafter, the Borrower shall provide revaluations of the collateral on an\nannual basis, or more frequently if requested by the Lender, to ensure that the collateral\ncontinues to meet the security requirements of this Agreement. All costs associated with\nsuch valuations and revaluations shall be borne by the Borrower[3].\n\n**6. Covenants**\n\n**Financial Covenants**",
+    "chunk_id": "chunk_5",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What insurance coverage is required by the borrower as per the covenants mentioned in the text?",
+    "answer": "The borrower is required to maintain comprehensive insurance coverage for all assets, including but not limited to property, equipment, and receivables.",
+    "ground_truth": "The borrower is required to maintain comprehensive insurance coverage for all assets, including but not limited to property, equipment, and receivables. This insurance coverage must extend to all assets pledged as collateral under the Agreement. The insurance should include, at a minimum, property insurance, liability insurance, and business interruption insurance. Additionally, the borrower must name the lender as an additional insured and loss payee on all relevant insurance policies. The borrower is obligated to provide evidence of such coverage to the lender upon request. This insurance requirement is part of the operational covenants agreed to by the borrower, along with providing quarterly financial reports and complying with all relevant federal, state, and local laws and regulations applicable to its business operations.",
+    "chunk_content": "**6. Covenants**\n\n**Financial Covenants**\n\nThe Borrower hereby covenants and agrees to maintain the following financial ratios and\nmetrics throughout the term of this Agreement:\n\n-  A minimum debt service coverage ratio of one and one-half (1.5);\n\n-  A maximum debt-to-equity ratio of two (2.0).\n\n**Operational Covenants**\n\nThe Borrower further covenants and agrees to:\n\n-  Provide the Lender with quarterly financial reports, including but not limited to\nbalance sheets, income statements, and cash flow statements;\n\n-  Maintain comprehensive insurance coverage for all assets, including but not limited\nto property, equipment, and receivables;\n\n-  Comply with all relevant federal, state, and local laws and regulations applicable to\nits business operations.\n\n**Insurance requirements**",
+    "chunk_id": "chunk_6",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "How does the Borrower ensure compliance with relevant federal, state, and local laws and regulations?",
+    "answer": "The Borrower maintains comprehensive insurance coverage for all assets pledged as collateral under this Agreement, including property insurance, liability insurance, and business interruption insurance. The Borrower names the Lender as an additional insured and loss payee on all relevant insurance policies and provides evidence of such coverage upon request. This aligns with ISO8888 standard for risk management and asset verification.",
+    "ground_truth": "The Borrower is obligated to comply with all relevant federal, state, and local laws and regulations applicable to its business operations as part of its operational covenants. While the agreement does not specify the exact methods for ensuring compliance, it is typically achieved through internal policies, regular audits, and potentially engaging legal counsel. The Borrower also agrees to provide quarterly financial reports to the Lender, which may serve as a mechanism for demonstrating ongoing compliance.",
+    "chunk_content": "-  Comply with all relevant federal, state, and local laws and regulations applicable to\nits business operations.\n\n**Insurance requirements**\n\nThe Borrower shall maintain comprehensive insurance coverage for all assets pledged as\ncollateral under this Agreement. Such insurance shall include, but not be limited to, property\ninsurance, liability insurance, and business interruption insurance. The Borrower shall name\nthe Lender as an additional insured and loss payee on all relevant insurance policies and\nprovide evidence of such coverage to the Lender upon request.\n\n3 This practice aligns with ISO8888 standard for risk management and asset verification.\n\n\n-----\n\n-  Comply with all relevant federal, state, and local laws and regulations applicable to\nits business operations.\n\n**7. Representations and Warranties**\n\nThe Borrower hereby represents and warrants to the Lender that:\n\n-  It is duly incorporated, validly existing, and in good standing under the laws of the\nUnited States;",
+    "chunk_id": "chunk_7",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What are the consequences of an Event of Default occurring under this Agreement? Is there a cure period provided for the Borrower to rectify the situation? ",
+    "answer": "The occurrence of any of the listed events constitutes an Event of Default under this Agreement. The Lender has the right to pursue remedies, including but not limited to demanding payment in full, exercising its security interest in collateral, and/or declaring the entire outstanding balance immediately due and payable. However, the Borrower is granted a cure period to rectify the situation before such remedies are enforced. The exact length of this cure period is not specified in this Agreement.",
+    "ground_truth": "The Agreement defines several Events of Default, including: (1) failure to make any payment of principal or interest when due, (2) breach of any covenant or agreement contained in the Agreement, (3) insolvency or inability to pay debts as they become due, and (4) any material adverse change in the Borrower's financial condition. Upon the occurrence of an Event of Default, the Borrower is granted a cure period of thirty (30) days to remedy the default. If the default is not cured within this period, the Lender has the right to declare the entire unpaid principal balance of the Loan Amount, together with all accrued interest and other amounts payable under the Agreement, to be immediately due and payable. Agreement explicitly states a cure period lenght of 30 days.",
+    "chunk_content": "The Borrower hereby represents and warrants to the Lender that:\n\n-  It is duly incorporated, validly existing, and in good standing under the laws of the\nUnited States;\n\n-  It has the requisite corporate power and authority to enter into and perform its\nobligations under this Agreement;\n\n-  All information provided to the Lender in connection with this Agreement is true,\naccurate, and complete in all material respects.\n\n**8. Events of Default[4]**\n\nThe occurrence of any of the following events shall constitute an event of default (\"Event of\nDefault\") under this Agreement:\n\n-  The Borrower fails to make any payment of principal or interest when due;\n\n-  The Borrower breaches any covenant or agreement contained in this Agreement;\n\n-  The Borrower becomes insolvent or is unable to pay its debts as they become due;\n\n-  Any material adverse change occurs in the Borrower's financial condition.\n\n**Cure Period**",
+    "chunk_id": "chunk_8",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the significance of a clearly defined events of default clause in loan agreements, and how does it protect the lender's interests?",
+    "answer": "A clearly defined events of default clause in loan agreements specifies specific circumstances that can trigger the acceleration of loan repayment. This clause provides protection for the lender's interests by allowing them to declare the entire outstanding balance immediately due and payable if the borrower defaults on certain terms, such as insolvency or failure to pay debts as they become due. The cure period allows the borrower some time to remedy the default before the loan is called in. This clause is significant because it minimizes the risk of loss for the lender in case of default by ensuring that they receive payment promptly.",
+    "ground_truth": "A clearly defined events of default clause in loan agreements is significant because it protects the lender's interests by specifying conditions (such as payment failure, covenant breaches, insolvency, or material adverse financial changes) that, if they occur and remain uncured after a set period, allow the lender to demand immediate repayment of the entire loan, thereby mitigating potential losses and incentivizing borrower compliance.",
+    "chunk_content": "-  The Borrower becomes insolvent or is unable to pay its debts as they become due;\n\n-  Any material adverse change occurs in the Borrower's financial condition.\n\n**Cure Period**\n\nUpon the occurrence of an Event of Default, the Borrower shall have a cure period of thirty\n(30) days to remedy such default. If the default is not cured within this period, the Lender\nshall have the right to declare the entire unpaid principal balance of the Loan Amount,\ntogether with all accrued interest and other amounts payable under this Agreement, to be\nimmediately due and payable.\n\n4 Clearly defined events of default protect the Lender's interests.\n\n\n-----\n\n**9. Governing Law and Jurisdiction**\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State\nof New York[5], without regard to its conflict of laws principles. Any disputes arising out of or\nin connection with this Agreement shall be subject to the exclusive jurisdiction of the courts\nof the State of New York.",
+    "chunk_id": "chunk_9",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is required for an amendment, modification, or waiver to be effective under this agreement?",
+    "answer": "It must be made in writing and signed by both parties.",
+    "ground_truth": "For any amendment, modification, or waiver of any provision of this Agreement to be effective, it must be made in writing and signed by both parties.",
+    "chunk_content": "**10. Miscellaneous**\n\n**Amendments**\n\nNo amendment, modification, or waiver of any provision of this Agreement shall be effective\nunless made in writing and signed by both parties.\n\n**Notices**\n\nAll notices, requests, consents, and other communications required or permitted under this\nAgreement shall be in writing and shall be deemed to have been duly given if delivered\npersonally, sent by registered or certified mail (postage prepaid, return receipt requested),\nor sent by a recognized overnight courier service, to the addresses specified above.\n\n**Binding Effect**\n\nThis agreement will pass to the benefit of and be bending upon the respective hers,\nexecutors, administrators, successors and permitted assigns of the Borrower and Lender.\nThe Borrower waives presentment for payment, notice of non-payment, protest and notice\nof protest.\n\n**Costs**",
+    "chunk_id": "chunk_10",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What are the conditions required for the disbursement of the loan amount, as outlined in Schedule A?",
+    "answer": "The disbursement of the Loan Amount is contingent upon the Borrower achieving specific project milestones and financial performance metrics, as detailed in Schedule A.",
+    "ground_truth":"According to the document, the disbursement of the Loan Amount is contingent upon the Borrower achieving specific project milestones and financial performance metrics, as detailed in Schedule A of the Agreement. The document indicates that Schedule A contains a list of these specific conditions, although the exact details of these milestones and metrics are not provided in the given chunk of text. The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, suggesting that these conditions may be tied to the release of each tranche.",
+    "chunk_content": "**Costs**\n\nAll costs, expenses and expenditures including, with limitation, the complete legal costs\nincurred by enforcing this Agreement as a result of any default by the Borrower, will be added\nto the principal then outstanding and will immediately be paid by the Borrower.\n\n5 The choice of New York law as the governing law arises from clause in earlier agreement DOC1248-X\n\n\n-----\n\n**Signatures**\n\nIN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and\nyear first above written.\n\n**For the Lender:**\n\nDarth Vader, Senior Vice President\nFirst National Bank\nDate: August 5, 2024\n\n**For the Borrower:**\n\nBuzz Lightyear, Chief Financial Officer\nGlobal Holdings Ltd.\nDate: August 5, 2024\n\n\n-----\n\n**Schedule A: Project Milestones and Financial Performance Metrics**\n\nThe disbursement of the Loan Amount will be contingent upon the Borrower achieving the\nfollowing specific project milestones and financial performance metrics:",
+    "chunk_id": "chunk_11",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What specific project milestones and financial performance metrics must be achieved for the disbursement of each tranche in the loan amount?",
+    "answer": "For Tranche 1 ($25,000,000): Milestone 1 is completion of initial project planning and approval of detailed business plan by the Lender by September 30, 2024. The Financial Metric is submission of audited financial statements for the fiscal year ending December 31, 2023, demonstrating a minimum debt service coverage ratio of 1.5. For Tranche 2 ($25,000,000): Milestone 2 is securing necessary permits and licenses for the expansion of logistics and agribusiness operations by March 31, 2025. The Financial Metric is achievement of a quarterly revenue growth rate of at least 10% in the hospitality sector for the quarter ending June 30, 2025, compared to the same quarter in the previous year. The conditions for Tranche 3 are not specified in the given information.",
+    "ground_truth": "The loan amount is disbursed in three tranches, each with specific project milestones and financial performance metrics. For Tranche 1 ($25,000,000): Milestone 1 is completion of initial project planning and approval of detailed business plan by the Lender by September 30, 2024. The Financial Metric is submission of audited financial statements for the fiscal year ending December 31, 2023, demonstrating a minimum debt service coverage ratio of 1.5. For Tranche 2 ($25,000,000): Milestone 2 is securing necessary permits and licenses for the expansion of logistics and agribusiness operations by March 31, 2025. The Financial Metric is achievement of a quarterly revenue growth rate of at least 10% in the hospitality sector for the quarter ending June 30, 2025, compared to the same quarter in the previous year. For Tranche 3 ($25,000,000): Milestone 3 is completion of 50% of the construction of new commercial properties in New York, totaling 500,000 square feet, by December 31, 2025. The Financial Metric is maintenance of a maximum debt-to-equity ratio of 2.0, as evidenced by quarterly financial reports for the quarter ending September 30, 2025.",
+    "chunk_content": "The disbursement of the Loan Amount will be contingent upon the Borrower achieving the\nfollowing specific project milestones and financial performance metrics:\n\n**Tranche 1: Initial Disbursement of $25,000,000**\n\n-  **Milestone 1: Completion of initial project planning and approval of detailed**\nbusiness plan by the Lender by September 30, 2024.\n\n-  **Financial Metric: Submission of audited financial statements for the fiscal year**\nending December 31, 2023, demonstrating a minimum debt service coverage ratio\nof 1.5.\n\n**Tranche 2: Second Disbursement of $25,000,000**\n\n-  **Milestone 2: Securing necessary permits and licenses for the expansion of logistics**\nand agribusiness operations by March 31, 2025.\n\n-  **Financial Metric: Achievement of a quarterly revenue growth rate of at least 10% in**\nthe hospitality sector for the quarter ending June 30, 2025, compared to the same\nquarter in the previous year.\n\n**Tranche 3: Third Disbursement of $25,000,000**",
+    "chunk_id": "chunk_12",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What additional conditions does the borrower need to meet in order to receive the final disbursement of $25 million?",
+    "answer": "The borrower must meet all covenants and conditions outlined in the Agreement, including but not limited to maintaining comprehensive insurance coverage and providing regular financial reports. Additionally, Milestone 4 for Tranche 4, which is the full operational status of the new maritime logistics hub with a minimum cargo handling capacity of 1,000,000 TEUs per annum by June 30, 2026, and the Financial Metric for Tranche 4, which requires demonstration of positive cash flow from operations of at least $5,000,000 for the quarters ending March 31, 2026, and June 30, 2026.",
+    "ground_truth": "To receive the final disbursement of $25 million (Tranche 4), the borrower must meet the following conditions: 1) Achieve Milestone 4: Full operational status of the new maritime logistics hub, with a minimum cargo handling capacity of 1,000,000 TEUs per annum, by June 30, 2026. 2) Meet the Financial Metric: Demonstrate positive cash flow from operations of at least $5,000,000 for the quarters ending March 31, 2026, and June 30, 2026. 3) Comply with all covenants and conditions outlined in the Agreement, including maintaining comprehensive insurance coverage and providing regular financial reports. These conditions are in addition to meeting the milestones and metrics for the previous tranches.",
+    "chunk_content": "**Tranche 3: Third Disbursement of $25,000,000**\n\n-  **Milestone 3: Completion of 50% of the construction of new commercial properties**\nin New York, totaling 500,000 square feet, by December 31, 2025.\n\n-  **Financial Metric: Maintenance of a maximum debt-to-equity ratio of 2.0, as**\nevidenced by quarterly financial reports for the quarter ending September 30, 2025.\n\n**Tranche 4: Final Disbursement of $25,000,000**\n\n-  **Milestone 4: Full operational status of the new maritime logistics hub, with a**\nminimum cargo handling capacity of 1,000,000 TEUs per annum, by June 30, 2026.\n\n-  **Financial Metric: Demonstration of positive cash flow from operations of at least**\n$5,000,000 for the quarters ending March 31, 2026, and June 30, 2026.\n\n**Additional Conditions**\n\n-  **Compliance: The Borrower must comply with all covenants and conditions outlined**\nin the Agreement, including but not limited to maintaining comprehensive insurance\ncoverage and providing regular financial reports.",
+    "chunk_id": "chunk_13",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the process for verifying achievement of milestones and financial metrics in this loan agreement?",
+    "answer": "The Borrower is required to provide necessary documentation and evidence within 30 days of the completion date of each milestone and financial metric for verification by the Lender. Each disbursement is subject to the Lender's review and approval of compliance with these requirements within 15 business days of receiving the documentation.",
+    "ground_truth": "The process for verifying achievement of milestones and financial metrics in this loan agreement is as follows: 1) The Borrower must provide all necessary documentation and evidence to the Lender to verify the achievement of each milestone and financial metric within 30 days of the specified completion date. 2) Each disbursement is subject to the Lender's review and approval of the Borrower's compliance with the specified milestones and financial metrics. 3) The Lender has 15 business days from receiving the required documentation to review and approve compliance with these requirements.",
+    "chunk_content": "-----\n\n**Documentation: The Borrower must provide all necessary documentation and**\nevidence to the Lender to verify the achievement of each milestone and financial\nmetric within 30 days of the specified completion date.\n\n**Approval: Each disbursement is subject to the Lender's review and approval of the**\nBorrower's compliance with the specified milestones and financial metrics within\n15 business days of receiving the required documentation.\n\n\n-----\n\n**Schedule B: Repayment Schedule**\n\n**Loan Amount: $100,000,000**\n\n**Interest Rate: 4.5% per annum (floating, tied to LIBOR)**\n\n**Repayment Period: 10 years**\n\n**Installment Frequency: Quarterly**\n\n**First Installment Due: Six months after the initial disbursement**\n\n**Assumptions:**\n\n-  The interest rate remains constant at 4.5% for simplicity.\n\n-  Equal quarterly installments over the repayment period.\n\n**Estimated total interest and amount paid:**",
+    "chunk_id": "chunk_14",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the approval process for each disbursement according to the loan terms?",
+    "answer": "Each disbursement requires the Lender's review and approval of the Borrower's compliance with specified milestones and financial metrics within 15 business days of receiving the required documentation.",
+    "ground_truth": "Each disbursement is subject to the Lender's review and approval of the Borrower's compliance with the specified milestones and financial metrics within 15 business days of receiving the required documentation.",
+    "chunk_content": "-----\n\n**Approval: Each disbursement is subject to the Lender's review and approval of the**\nBorrower's compliance with the specified milestones and financial metrics within\n15 business days of receiving the required documentation.\n\n-----\n\n**Schedule B: Repayment Schedule**\n\n**Loan Amount: $100,000,000**\n\n**Interest Rate: 4.5% per annum (floating, tied to LIBOR)**\n\n**Repayment Period: 10 years**\n\n**Installment Frequency: Quarterly**\n\n**First Installment Due: Six months after the initial disbursement**\n\n**Assumptions:**\n\n-  The interest rate remains constant at 4.5% for simplicity.\n\n-  Equal quarterly installments over the repayment period.\n\n**Estimated total interest and amount paid:**\nThe total interest paid over the life of the loan is $33,750,000, and the total amount repaid is $133,750,000.\n\n**Repayment Schedule:**\n\n1. Payment 1\n   - Date: February 5, 2025\n   - Principal Payment: $2,500,000\n   - Interest Payment: $1,125,000\n   - Total Payment: $3,625,000\n   - Outstanding Balance: $97,500,000\n\n2. Payment 2\n   - Date: May 5, 2025\n   - Principal Payment: $2,500,000\n   - Interest Payment: $1,096,875\n   - Total Payment: $3,596,875\n   - Outstanding Balance: $95,000,000\n\n3. Payment 3",
+    "chunk_id": "chunk_15",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "How does the outstanding balance on the loan change over time?",
+    "answer": "The text provided shows a series of payments being made on a loan. The 'Outstanding Balance' decreases with each payment, starting at $92,500,000 and ending at $82,500,000 after the eighth payment. This demonstrates that as payments are made, the remaining balance owed on the loan also decreases.",
+    "ground_truth": "The outstanding balance on the loan decreases over time as payments are made. The repayment schedule shows a series of quarterly payments, each consisting of a principal payment of $2,500,000 and a decreasing interest payment. The outstanding balance starts at $92,500,000 after the first payment shown in the chunk and decreases by $2,500,000 with each payment. After the 8th payment shown in the chunk, the outstanding balance reaches $82,500,000. This demonstrates a consistent reduction in the loan balance over time as regular payments are made.",
+    "chunk_content": "`o` **Interest Payment: $1,068,750**\n\n`o` **Total Payment: $3,568,750**\n\n`o` **Outstanding Balance: $92,500,000**\n\n4. **Payment 4**\n\n`o` **Date: November 5, 2025**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $1,040,625**\n\n`o` **Total Payment: $3,540,625**\n\n`o` **Outstanding Balance: $90,000,000**\n\n5. **Payment 5**\n\n`o` **Date: February 5, 2026**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $1,012,500**\n\n`o` **Total Payment: $3,512,500**\n\n`o` **Outstanding Balance: $87,500,000**\n\n6. **Payment 6**\n\n`o` **Date: May 5, 2026**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $984,375**\n\n`o` **Total Payment: $3,484,375**\n\n`o` **Outstanding Balance: $85,000,000**\n\n7. **Payment 7**\n\n`o` **Date: August 5, 2026**\n\n`o` **Principal Payment: $2,500,000**\n\n\n-----\n\n`o` **Interest Payment: $956,250**\n\n`o` **Total Payment: $3,456,250**\n\n`o` **Outstanding Balance: $82,500,000**\n\n8. **Payment 8**\n\n`o` **Date: November 5, 2026**",
+    "chunk_id": "chunk_16",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment and outstanding balance for Payment 9 in the given text material?",
+    "answer": "The total payment for Payment 9 is $3,400,000, and the outstanding balance after this payment is $77,500,000.",
+    "ground_truth": "The total payment for Payment 9 is $3,400,000, and the outstanding balance after this payment is $77,500,000.",
+    "chunk_content": "-----\n\n`o` **Interest Payment: $956,250**\n\n`o` **Total Payment: $3,456,250**\n\n`o` **Outstanding Balance: $82,500,000**\n\n8. **Payment 8**\n\n`o` **Date: November 5, 2026**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $928,125**\n\n`o` **Total Payment: $3,428,125**\n\n`o` **Outstanding Balance: $80,000,000**\n\n9. **Payment 9**\n\n`o` **Date: February 5, 2027**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $900,000**\n\n`o` **Total Payment: $3,400,000**\n\n`o` **Outstanding Balance: $77,500,000**\n\n10. **Payment 10**\n\n`o` **Date: May 5, 2027**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $871,875**\n\n`o` **Total Payment: $3,371,875**\n\n`o` **Outstanding Balance: $75,000,000**\n\n11. **Payment 11**\n\n`o` **Date: August 5, 2027**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $843,750**\n\n`o` **Total Payment: $3,343,750**\n\n\n-----\n\n`o` **Outstanding Balance: $72,500,000**\n\n12. **Payment 12**\n\n`o` **Date: November 5, 2027**",
+    "chunk_id": "chunk_17",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment made during Payment 12 on November 5, 2027?",
+    "answer": "The total payment made during Payment 12 on November 5, 2027 is $3,315,625.",
+    "ground_truth": "The total payment made during Payment 12 on November 5, 2027 is $3,315,625.",
+    "chunk_content": "`o` **Interest Payment: $843,750**\n\n`o` **Total Payment: $3,343,750**\n\n\n-----\n\n`o` **Outstanding Balance: $72,500,000**\n\n12. **Payment 12**\n\n`o` **Date: November 5, 2027**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $815,625**\n\n`o` **Total Payment: $3,315,625**\n\n`o` **Outstanding Balance: $70,000,000**\n\n13. **Payment 13**\n\n`o` **Date: February 5, 2028**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $787,500**\n\n`o` **Total Payment: $3,287,500**\n\n`o` **Outstanding Balance: $67,500,000**\n\n14. **Payment 14**\n\n`o` **Date: May 5, 2028**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $759,375**\n\n`o` **Total Payment: $3,259,375**\n\n`o` **Outstanding Balance: $65,000,000**\n\n15. **Payment 15**\n\n`o` **Date: August 5, 2028**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $731,250**\n\n`o` **Total Payment: $3,231,250**\n\n`o` **Outstanding Balance: $62,500,000**\n\n16. **Payment 16**\n\n\n-----\n\n`o` **Date: November 5, 2028**",
+    "chunk_id": "chunk_18",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment made in Payment 16 and what is the outstanding balance after this payment?",
+    "answer": "The total payment made in Payment 16 is $3,203,125, and the outstanding balance after this payment is $60,000,000.",
+    "ground_truth": "The total payment made in Payment 16 is $3,203,125, and the outstanding balance after this payment is $60,000,000.",
+    "chunk_content": "`o` **Interest Payment: $731,250**\n\n`o` **Total Payment: $3,231,250**\n\n`o` **Outstanding Balance: $62,500,000**\n\n16. **Payment 16**\n\n\n-----\n\n`o` **Date: November 5, 2028**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $703,125**\n\n`o` **Total Payment: $3,203,125**\n\n`o` **Outstanding Balance: $60,000,000**\n\n17. **Payment 17**\n\n`o` **Date: February 5, 2029**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $675,000**\n\n`o` **Total Payment: $3,175,000**\n\n`o` **Outstanding Balance: $57,500,000**\n\n18. **Payment 18**\n\n`o` **Date: May 5, 2029**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $646,875**\n\n`o` **Total Payment: $3,146,875**\n\n`o` **Outstanding Balance: $55,000,000**\n\n19. **Payment 19**\n\n`o` **Date: August 5, 2029**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $618,750**\n\n`o` **Total Payment: $3,118,750**\n\n`o` **Outstanding Balance: $52,500,000**\n\n20. **Payment 20**\n\n`o` **Date: November 5, 2029**",
+    "chunk_id": "chunk_19",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment and outstanding balance after Payment 24 in the provided text material?",
+    "answer": "The total payment for Payment 24 is $2,978,125, and the outstanding balance after this payment is $40,000,000.",
+    "ground_truth": "The total payment for Payment 24 is $2,978,125, and the outstanding balance after this payment is $40,000,000.",
+    "chunk_content": "`o` **Interest Payment: $618,750**\n\n`o` **Total Payment: $3,118,750**\n\n`o` **Outstanding Balance: $52,500,000**\n\n20. **Payment 20**\n\n`o` **Date: November 5, 2029**\n\n`o` **Principal Payment: $2,500,000**\n\n\n-----\n\n`o` **Interest Payment: $590,625**\n\n`o` **Total Payment: $3,090,625**\n\n`o` **Outstanding Balance: $50,000,000**\n\n21. **Payment 21**\n\n`o` **Date: February 5, 2030**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $562,500**\n\n`o` **Total Payment: $3,062,500**\n\n`o` **Outstanding Balance: $47,500,000**\n\n22. **Payment 22**\n\n`o` **Date: May 5, 2030**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $534,375**\n\n`o` **Total Payment: $3,034,375**\n\n`o` **Outstanding Balance: $45,000,000**\n\n23. **Payment 23**\n\n`o` **Date: August 5, 2030**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $506,250**\n\n`o` **Total Payment: $3,006,250**\n\n`o` **Outstanding Balance: $42,500,000**\n\n24. **Payment 24**\n\n`o` **Date: November 5, 2030**",
+    "chunk_id": "chunk_20",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment made during Payment 24 and what are the individual principal, interest, and outstanding balance amounts?",
+    "answer": "The total payment made during Payment 24 is $2,978,125. The principal payment is $2,500,000, the interest payment is $478,125, and the outstanding balance after this payment is $40,000,000.",
+    "ground_truth": "The total payment made during Payment 24 is $2,978,125. The principal payment is $2,500,000, the interest payment is $478,125, and the outstanding balance after this payment is $40,000,000.",
+    "chunk_content": "`o` **Interest Payment: $506,250**\n\n`o` **Total Payment: $3,006,250**\n\n`o` **Outstanding Balance: $42,500,000**\n\n24. **Payment 24**\n\n`o` **Date: November 5, 2030**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $478,125**\n\n`o` **Total Payment: $2,978,125**\n\n\n-----\n\n`o` **Outstanding Balance: $40,000,000**\n\n25. **Payment 25**\n\n`o` **Date: February 5, 2031**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $450,000**\n\n`o` **Total Payment: $2,950,000**\n\n`o` **Outstanding Balance: $37,500,000**\n\n26. **Payment 26**\n\n`o` **Date: May 5, 2031**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $421,875**\n\n`o` **Total Payment: $2,921,875**\n\n`o` **Outstanding Balance: $35,000,000**\n\n27. **Payment 27**\n\n`o` **Date: August 5, 2031**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $393,750**\n\n`o` **Total Payment: $2,893,750**\n\n`o` **Outstanding Balance: $32,500,000**\n\n28. **Payment 28**\n\n`o` **Date: November 5, 2031**",
+    "chunk_id": "chunk_21",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment made for each of the payments from November 5, 2031 to November 5, 2032?",
+    "answer": "The total payments made for each of the payments from November 5, 2031 to November 5, 2032 are: Payment 28: $2,865,625, Payment 29: $2,837,500, Payment 30: $2,809,375, Payment 31: $2,781,250.",
+    "ground_truth": "The total payments made for each of the payments from November 5, 2031 to November 5, 2032 are: Payment 28: $2,865,625, Payment 29: $2,837,500, Payment 30: $2,809,375, Payment 31: $2,781,250.",
+    "chunk_content": "`o` **Interest Payment: $393,750**\n\n`o` **Total Payment: $2,893,750**\n\n`o` **Outstanding Balance: $32,500,000**\n\n28. **Payment 28**\n\n`o` **Date: November 5, 2031**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $365,625**\n\n`o` **Total Payment: $2,865,625**\n\n`o` **Outstanding Balance: $30,000,000**\n\n29. **Payment 29**\n\n\n-----\n\n`o` **Date: February 5, 2032**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $337,500**\n\n`o` **Total Payment: $2,837,500**\n\n`o` **Outstanding Balance: $27,500,000**\n\n30. **Payment 30**\n\n`o` **Date: May 5, 2032**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $309,375**\n\n`o` **Total Payment: $2,809,375**\n\n`o` **Outstanding Balance: $25,000,000**\n\n31. **Payment 31**\n\n`o` **Date: August 5, 2032**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $281,250**\n\n`o` **Total Payment: $2,781,250**\n\n`o` **Outstanding Balance: $22,500,000**\n\n32. **Payment 32**\n\n`o` **Date: November 5, 2032**",
+    "chunk_id": "chunk_22",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment made in Payment 32 and what is the outstanding balance after this payment?",
+    "answer": "The total payment made in Payment 32 is $2,753,125, and the outstanding balance after this payment is $20,000,000.",
+    "ground_truth": "The total payment made in Payment 32 is $2,753,125, and the outstanding balance after this payment is $20,000,000.",
+    "chunk_content": "`o` **Interest Payment: $281,250**\n\n`o` **Total Payment: $2,781,250**\n\n`o` **Outstanding Balance: $22,500,000**\n\n32. **Payment 32**\n\n`o` **Date: November 5, 2032**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $253,125**\n\n`o` **Total Payment: $2,753,125**\n\n`o` **Outstanding Balance: $20,000,000**\n\n33. **Payment 33**\n\n`o` **Date: February 5, 2033**\n\n`o` **Principal Payment: $2,500,000**\n\n\n-----\n\n`o` **Interest Payment: $225,000**\n\n`o` **Total Payment: $2,725,000**\n\n`o` **Outstanding Balance: $17,500,000**\n\n34. **Payment 34**\n\n`o` **Date: May 5, 2033**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $196,875**\n\n`o` **Total Payment: $2,696,875**\n\n`o` **Outstanding Balance: $15,000,000**\n\n35. **Payment 35**\n\n`o` **Date: August 5, 2033**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $168,750**\n\n`o` **Total Payment: $2,668,750**\n\n`o` **Outstanding Balance: $12,500,000**\n\n36. **Payment 36**\n\n`o` **Date: November 5, 2033**",
+    "chunk_id": "chunk_23",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total payment made on November 5, 2033?",
+    "answer": "The total payment made on November 5, 2033 is $2,640,625.",
+    "ground_truth": "The total payment made on November 5, 2033 is $2,640,625.",
+    "chunk_content": "`o` **Interest Payment: $168,750**\n\n`o` **Total Payment: $2,668,750**\n\n`o` **Outstanding Balance: $12,500,000**\n\n36. **Payment 36**\n\n`o` **Date: November 5, 2033**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $140,625**\n\n`o` **Total Payment: $2,640,625**\n\n`o` **Outstanding Balance: $10,000,000**\n\n37. **Payment 37**\n\n`o` **Date: February 5, 2034**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $112,500**\n\n`o` **Total Payment: $2,612,500**\n\n\n-----\n\n`o` **Outstanding Balance: $7,500,000**\n\n38. **Payment 38**\n\n`o` **Date: May 5, 2034**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $84,375**\n\n`o` **Total Payment: $2,584,375**\n\n`o` **Outstanding Balance: $5,000,000**\n\n39. **Payment 39**\n\n`o` **Date: August 5, 2034**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $56,250**\n\n`o` **Total Payment: $2,556,250**\n\n`o` **Outstanding Balance: $2,500,000**\n\n40. **Payment 40**\n\n`o` **Date: November 5, 2034**",
+    "chunk_id": "chunk_24",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "How is the interest payment calculated in this loan agreement and what factors can cause variations in the exact amount?",
+    "answer": "The interest payment in this loan agreement is calculated based on the outstanding principal at the beginning of each quarter. The exact interest payment may vary due to fluctuations in the LIBOR rate, which will be communicated as specified in the agreement.",
+    "ground_truth": "The interest payment is calculated based on the outstanding principal at the beginning of each quarter. The exact interest payment may vary due to fluctuations in the LIBOR rate, and adjustments will be communicated as specified in the agreement.",
+    "chunk_content": "`o` **Interest Payment: $56,250**\n\n`o` **Total Payment: $2,556,250**\n\n`o` **Outstanding Balance: $2,500,000**\n\n40. **Payment 40**\n\n`o` **Date: November 5, 2034**\n\n`o` **Principal Payment: $2,500,000**\n\n`o` **Interest Payment: $28,125**\n\n`o` **Total Payment: $2,528,125**\n\n`o` **Outstanding Balance: $0**\n\n**Notes:**\n\n1. The interest payment is calculated based on the outstanding principal at the\n\nbeginning of each quarter.\n\n2. The principal payment remains constant throughout the repayment period.\n\n3. The total payment is the sum of the principal and interest payments for each\n\ninstallment.\n\n4. The exact interest payment may vary due to fluctuations in the LIBOR rate, and\n\nadjustments will be communicated as specified in the agreement.\n\n\n-----\n\n**Schedule C: Collateral Details**\n\n**1. Commercial Properties**\n\n-  **New York Property**\n\n`o` **Location: 456 Manhattan Avenue, New York, NY, USA**\n\n`o` **Type: Office Building**",
+    "chunk_id": "chunk_25",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the total floor area and current occupancy rate for the New York Property listed in Schedule C of this document?",
+    "answer": "The total floor area for the New York Property listed in Schedule C is 200,000 square feet, and as of August 1, 2024, the current occupancy rate is 95%.",
+    "ground_truth": "The total floor area for the New York Property listed in Schedule C is 200,000 square feet, and as of August 1, 2024, the current occupancy rate is 95%",
+    "chunk_content": "-----\n\n**Schedule C: Collateral Details**\n\n**1. Commercial Properties**\n\n-  **New York Property**\n\n`o` **Location: 456 Manhattan Avenue, New York, NY, USA**\n\n`o` **Type: Office Building**\n\n`o` **Valuation: $50,000,000 (as per the independent appraisal dated August 1,**\n\n2024)\n\n`o` **Description: A 20-story office building with a total floor area of 200,000**\n\nsquare feet, currently leased to multiple high-quality tenants with an average\nremaining lease term of 5 years.\n\n`o` **Occupancy Rate: 95% (as of August 1, 2024)**\n\n`o` **Net Operating Income: $3,500,000 (for the 12 months ending July 31, 2024)**\n\n-  **Los Angeles Property**\n\n`o` **Location: 789 Sunset Boulevard, Los Angeles, CA, USA**\n\n`o` **Type: Mixed-Use Development**\n\n`o` **Valuation: $40,000,000 (as per the independent appraisal dated August 1,**\n\n2024)\n\n`o` **Description: A mixed-use development comprising high-end retail space on**",
+    "chunk_id": "chunk_26",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the value of the receivables from the Borrower's hospitality operations, and what is their average collection period and historical default rate?",
+    "answer": "$5,000,000 (as per the accounts receivable aging report dated August 1, 2024); Average collection period: 45 days; Historical default rate: less than 1%",
+    "ground_truth": "The value of the receivables from the Borrower's hospitality operations is $5,000,000 (as per the accounts receivable aging report dated August 1, 2024). The average collection period is 45 days, and the historical default rate is less than 1%.",
+    "chunk_content": "`o` **Valuation: $40,000,000 (as per the independent appraisal dated August 1,**\n\n2024)\n\n`o` **Description: A mixed-use development comprising high-end retail space on**\n\nthe ground floor and luxury residential apartments on the upper floors, with a\ntotal floor area of 150,000 square feet.\n\n`o` **Occupancy Rate: 98% (as of August 1, 2024)**\n\n`o` **Net Operating Income: $2,800,000 (for the 12 months ending July 31, 2024)**\n\n**2. Receivables**\n\n-  **Hospitality Operations Receivables**\n\n`o` **Description: Accounts receivable from the Borrower's high-end hospitality**\n\noperations, including 5-star hotels and Michelin-starred restaurants.\n\n`o` **Valuation: $5,000,000 (as per the accounts receivable aging report dated**\n\nAugust 1, 2024)\n\n\n-----\n\n`o` **Details: Receivables are from a diverse base of over 100 high-net-worth**\n\nclients, with an average collection period of 45 days and a historical default\nrate of less than 1%.\n\n-  **Agribusiness Operations Receivables**",
+    "chunk_id": "chunk_27",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What is the valuation and origin of Generic Corp's (GC) Common Shares?",
+    "answer": "The valuation of GC's Common Shares is $20,000,000 based on the 30-day volume-weighted average price of GC shares on the NASDAQ stock exchange as of August 1, 2024. The type of shares are Common Shares and there are a total of 250,000.",
+    "ground_truth": "The valuation of Generic Corp's (GC) Common Shares is $20,000,000, based on the 30-day volume-weighted average price of GC shares on the NASDAQ stock exchange as of August 1, 2024. The shares are Common Shares, and there are a total of 250,000 shares.",
+    "chunk_content": "clients, with an average collection period of 45 days and a historical default\nrate of less than 1%.\n\n-  **Agribusiness Operations Receivables**\n\n`o` **Description: Accounts receivable from the Borrower's sustainable**\n\nagribusiness operations, including organic produce and premium livestock.\n\n`o` **Valuation: $5,000,000 (as per the accounts receivable aging report dated**\n\nAugust 1, 2024)\n\n`o` **Details: Receivables are from a diverse base of over 50 high-quality clients,**\n\nincluding leading supermarket chains and top-tier restaurants, with an\naverage collection period of 60 days and a historical default rate of less than\n2%.\n\n**3. Generic Corp (GC) Common Shares**\n\n-  **Total Shares: 250,000**\n\n-  **Type: Common Shares**\n\n-  **Valuation: $20,000,000 (based on the 30-day volume-weighted average price of GC**\nshares on the NASDAQ stock exchange as of August 1, 2024)",
+    "chunk_id": "chunk_28",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What type and amount of insurance coverage does the company have for their New York and Los Angeles properties?",
+    "answer": "The company has Property Insurance with a coverage amount of $100,000,000 from XYZ Insurance Co. (A.M. Best Rating: A++) with Policy Number ABC123456 covering both New York and Los Angeles properties against physical damage, business interruption, and loss of rents.",
+    "ground_truth": "The company has Property Insurance with a coverage amount of $100,000,000 from XYZ Insurance Co. (A.M. Best Rating: A++) with Policy Number ABC123456. This comprehensive all-risk property insurance covers both New York and Los Angeles properties against physical damage, business interruption, and loss of rents.",
+    "chunk_content": "-  **Type: Common Shares**\n\n-  **Valuation: $20,000,000 (based on the 30-day volume-weighted average price of GC**\nshares on the NASDAQ stock exchange as of August 1, 2024)\n\n-  **Restrictions: These shares are restricted under Rule 144 of the Securities Act of**\n1933 but will become freely tradable in equal quarterly installments over the next 2\nyears.\n\n-  **Description: The shares represent a 2.5% ownership interest in Generic Corp, a**\nleading publicly traded company on the NASDAQ stock exchange with a market\ncapitalization of $800 million and a strong financial track record.\n\n**4. Insurance Coverage**\n\n-  **Property Insurance**\n\n`o` **Coverage Amount: $100,000,000**\n\n`o` **Insurer: XYZ Insurance Co. (A.M. Best Rating: A++)**\n\n`o` **Policy Number: ABC123456**\n\n\n-----\n\n`o` **Details: Comprehensive all-risk property insurance covering both New York**\n\nand Los Angeles properties against physical damage, business interruption,\nand loss of rents.\n\n**Receivables Insurance**",
+    "chunk_id": "chunk_29",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What types of risks are covered by the Property Insurance policy with coverage amount $10,000,000 under insurer XYZ Insurance Co. With rating A++?",
+    "answer": "The Property Insurance policy covers physical damage, business interruption, and loss of rents for both San Francisco and Los Angeles properties.",
+    "ground_truth": "The Property Insurance policy with coverage amount $100,000,000 under insurer XYZ Insurance Co. (rating A++) covers physical damage, business interruption, and loss of rents for both New York and Los Angeles properties.",
+    "chunk_content": "and Los Angeles properties against physical damage, business interruption,\nand loss of rents.\n\n**Receivables Insurance**\n\n`o` **Coverage Amount: $12,000,000**\n\n`o` **Insurer: ABC Insurance Co. (A.M. Best Rating: A+)**\n\n`o` **Policy Number: DEF789012**\n\n`o` **Details: Trade credit insurance covering 90% of the receivables from**\n\nhospitality and agribusiness operations against protracted default and\ninsolvency.\n\n**Shares Insurance**\n\n`o` **Coverage Amount: $25,000,000**\n\n`o` **Insurer: DEF Insurance Co. (A.M. Best Rating: A)**\n\n`o` **Policy Number: GHI345678**\n\n`o` **Details: Directors and Officers (D&O) liability insurance protecting the value**\n\nof the Generic Corp shares against potential claims arising from\nmanagement decisions and actions.\n\n\n-----",
+    "chunk_id": "chunk_30",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What are the full details of the Lender and Borrower, including their addresses?",
+    "answer": "The Lender is First National Bank, a financial institution incorporated under the laws of the United States, with its principal office located at 789 Drive, Metaverse. The Borrower is Global Holdings Ltd., a holding company with its registered office at 123 Business Park Drive, New York, NY, USA.",
+    "ground_truth": "The Lender is First National Bank, a financial institution incorporated under the laws of the United States, with its principal office located at 789 Drive, Metaverse. The Borrower is Global Holdings Ltd., a holding company with its registered office at 123 Business Park Drive, New York, NY, USA.",
+    "chunk_content": "**Lender**\n\nFirst National Bank, a reputable financial institution incorporated under the laws of the\nUnited States, with its principal office located at 789 Drive, Metaverse.\n\n**Borrower**\n\nGlobal Holdings Ltd., a holding company duly incorporated and existing under the laws of\nthe United States, with its registered office at 123 Business Park Drive, New York, NY, USA.",
+    "chunk_id": "chunk_31",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What specific business sectors will the financing support?",
+    "answer": "The financing will support the Borrower's operational and capital expenditure requirements across various business sectors, including but not limited to properties, logistics, hospitality, food, agribusiness, and maritime industries.",
+    "ground_truth": "The financing will support the Borrower's operational and capital expenditure requirements across various business sectors, including but not limited to properties, logistics, hospitality, food, agribusiness, and maritime industries.",
+    "chunk_content": "The purpose of the financing provided under this Agreement is to support the operational\nand capital expenditure requirements of the Borrower across its various business sectors,\nincluding but not limited to properties, logistics, hospitality, food, agribusiness, and\nmaritime industries. The funds shall be utilized in accordance with the Borrower's business\nplan and financial projections, which have been reviewed and approved by the Lender.",
+    "chunk_id": "chunk_32",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  },
+  {
+    "question": "What are the conditions precedent for disbursement of each tranche?",
+    "answer": "Each tranche shall be disbursed upon the Borrower's fulfillment of certain conditions precedent, including but not limited to the achievement of specific project milestones and the attainment of financial performance metrics as detailed in Schedule A of the Agreement.",
+    "ground_truth": "Each tranche shall be disbursed upon the Borrower's fulfillment of certain conditions precedent, including but not limited to the achievement of specific project milestones and the attainment of financial performance metrics as detailed in Schedule A of the Agreement.",
+    "chunk_content": "The Loan Amount shall be disbursed in four tranches of Twenty-Five Million United States\nDollars ($25,000,000) each. Each tranche shall be disbursed upon the Borrower's fulfillment\nof certain conditions precedent[1], including but not limited to the achievement of specific\n\n1 Disbursement schedule shown is projected on the assumption that the Borrower achieves key milestones\nand financial targets\n\n\n-----\n\nproject milestones and the attainment of financial performance metrics as detailed in\nSchedule A of this Agreement.",
+    "chunk_id": "chunk_33",
+    "metadata": {
+      "lender_institution": "First National Bank",
+      "borrower_institution": "Global Holdings Ltd.",
+      "loan_amount": 100000000.0,
+      "loan_currency": "USD",
+      "loan_term": "10 years",
+      "confidence_score": 1.0,
+      "key_information": "The loan facility of $100,000,000 will be disbursed in four tranches of $25,000,000 each, with repayments scheduled over 10 years at an interest rate of 4.5%."
+    },
+    "document_name": "DraftChatGPT_v2.md"
+  }
+]
