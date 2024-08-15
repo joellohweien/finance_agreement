@@ -17,7 +17,7 @@ def metadata_func(record: dict, metadata: dict) -> dict:
     return metadata
 
 loader = JSONLoader(
-    file_path="data/processed/test1/qa_dataset_groundtruthJL.json",
+    file_path="qa_dataset_groundtruthJL.json",
     jq_schema='.[]',
     content_key="chunk_content",
     metadata_func=metadata_func
